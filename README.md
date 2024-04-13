@@ -1,6 +1,7 @@
 # NYC Airbnb Market Analysis
 Comprehensive analysis of Airbnb data in New York City using Tableau. Discover trends in bookings, prices, reviews, and host performance across different neighborhoods and room types. Interactive visualizations offer insights into NYC's short-term rental market.Using data from [Inside Airbnb](https://insideairbnb.com/get-the-data), explore a variety of aspects such as bookings, pricing, reviews, and host activity.
 
+[Tableau Public](https://public.tableau.com/app/profile/murali.krishna.avula/viz/Airbnb_NYC_17130500525390/Dashboard1)
 ![NYC Airbnb Visualization](images/nyc_airbnb_viz.png)
 
 ## Data Sample
@@ -47,8 +48,6 @@ The project includes several key visualizations, each offering unique insights:
 
 
 ## Viewing the Dashboard
-
-There are a couple of ways to view the Tableau dashboard:
 
 - **Tableau Public:** You can view the dashboard online on [Tableau Public](https://public.tableau.com/app/profile/murali.krishna.avula/viz/Airbnb_NYC_17130500525390/Dashboard1). This link allows you to explore the visualizations interactively.
   
